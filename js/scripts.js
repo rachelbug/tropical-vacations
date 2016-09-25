@@ -29,7 +29,9 @@ $(function() {
       $("#abq").show();
     } else if (gender === 'female' && (season === 'spring' || color === 'coq')) {
       $("#bora").show();
-    }
+  } else {
+    $("#abq").show();
+  }
 
 
   });
