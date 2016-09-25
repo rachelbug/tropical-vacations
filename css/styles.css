@@ -1,3 +1,38 @@
 #russia, #death, #bora, #abq {
   display: none;
 }
+
+body {
+  color: #00134d;
+  letter-spacing: 0.5px;
+}
+
+#lead {
+  color: #FFF;
+  font-size: 15px;
+  letter-spacing: 4px;
+}
+
+.jumbotron {
+  background-image: url("http://wallpaperrs.com/uploads/beach/sunset-on-a-tropical-beach-wide-wallpaper-17083.jpg");
+  background-size: cover;
+ }
+
+.jumbotron h1 {
+  color: #FFF;
+  letter-spacing: 10px;
+}
+
+.btn-cust {
+  letter-spacing: 1px;
+  background-color: #ff0066;
+  color: #FFF;
+  font-weight: normal;
+}
+
+.btn-cust:hover {
+  letter-spacing: 1px;
+  background-color: #ff80b3;
+  color: #FFF;
+  font-weight: normal;
+}
